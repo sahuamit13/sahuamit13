@@ -12,7 +12,7 @@
 
 <b>Language and Tools:</b>
 
-<a href="https://developer.apple.com/swift/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.sketch.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/1d997cdd55f59eb171ba044aa9fb6f77eef653c6a23fc51a809425fd03a12cd4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f736b657463686170702f736b657463686170702d69636f6e2e737667" alt="sketch" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" style="max-width: 100%;"> </a>
+<a href="https://developer.apple.com/swift/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.sketch.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" style="max-width: 100%;"> </a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahuamit13&theme=dark&show_icons=true)
